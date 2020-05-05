@@ -12,6 +12,7 @@ export default class CoordinatesButton extends React.Component  {
     render() {
         return <button onClick={this.buttonclick}></button>
     }
+}
 
 
 
